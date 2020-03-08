@@ -6,8 +6,8 @@
 <!-- more -->
 
 ------
-
-# <font color="#dd0000">文章中有60多个毕设成品，以及我最近做的毕设成品并未展示，联系方式见文末</font>
+# [建议访问原文章阅读](https://lijinhongpassion.github.io/codeant/kcsj.html)
+＃< font  color = “＃dd0000” >文章中有60个多个毕设成品，以及我最近做的毕设成品连续展示，联系方式见文末</ font  >
 
 # 写在前面（必读）
 
